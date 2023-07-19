@@ -1,0 +1,1 @@
+[Download the app](https://github.com/jainam03/electron-weather-app/releases/download/v1.1/Weather.app.Setup.1.0.0.exe)
