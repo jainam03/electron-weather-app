@@ -1,0 +1,13 @@
+{
+  "appId": "Weather app",
+  "productName": "Weather app",
+  "directories": {
+    "output": "dist"
+  },
+  "mac": {
+    "category": "your.app.category"
+  },
+  "win": {
+    "target": "nsis"
+  }
+}
